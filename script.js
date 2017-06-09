@@ -13,7 +13,7 @@ $(document).ready(function() {
 	function reload(event) {
 		event.preventDefault();
 
-		$('.container').slideUp();
+		$('.container1').slideUp();
 
 		$('.hide').show();    
 	}
